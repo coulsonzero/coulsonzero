@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 前端：web (html, css, javascript), React框架
 - 后端：Golang(gin, gorm框架)
 - 数据库：mysql, redis
-- 部署：Docker, linux
+- 部署：Docker, linux, git
 
 
 <!--
