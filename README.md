@@ -2,7 +2,7 @@
 
 <!-- **coulsonzero/coulsonzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+> Here are some ideas to get you started:
 
 <!-- - 🌱 I’m currently learning  -->
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 - 🌱 展板: https://dashboard.coulsonzero.cn
 
 
-目前主要的技术栈:
-- 前端：web (html, css, javascript), React框架
-- 后端：Golang(gin, gorm框架)
-- 数据库：mysql, redis
-- 部署：Docker, linux, git
+技术栈: 
+> 目前主攻后端golang
+- 前端：html、css、javascript、react
+- 后端：golang、gin、gorm
+- 数据：mysql、 redis
+- 部署：git、linux、docker
+- 其它：python、java
 
 
 <!--
