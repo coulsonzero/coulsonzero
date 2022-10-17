@@ -17,7 +17,6 @@
 
 
 技术栈: 
-> 目前主攻后端golang
 - 前端：html、css、javascript、react
 - 后端：golang、gin、gorm
 - 数据：mysql、 redis
