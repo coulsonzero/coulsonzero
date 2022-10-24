@@ -17,8 +17,8 @@
 
 
 技术栈: 
-- 前端：html、css、javascript、react
 - 后端：golang、gin、gorm
+- 前端：html、css、javascript、react
 - 数据：mysql、 redis
 - 部署：git、linux、docker、shell
 - 其它：python、java
