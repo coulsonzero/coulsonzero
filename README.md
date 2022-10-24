@@ -17,11 +17,12 @@
 
 
 技术栈: 
-- 后端：golang、gin、gorm
+- 后端：golang、python、java
+- 框架：gin、gorm
 - 前端：html、css、javascript、react
 - 数据：mysql、 redis
 - 部署：git、linux、docker、shell
-- 其它：python、java
+- 其它：django，springboot
 
 
 <!--
