@@ -13,7 +13,8 @@
 <!-- - ⚡ Fun fact: ... -->
 - 🏡 主页: http://www.coulsonzero.cn
 - 📚 博客: http://docs.coulsonzero.top
-- 🌱 展板: https://dashboard.coulsonzero.cn
+- 🌱 react展板: https://dashboard.coulsonzero.cn
+- 🎈 vue项目: https://admin.coulsonzero.cn
 
 
 技术栈: 
