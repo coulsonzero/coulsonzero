@@ -14,7 +14,7 @@
 - 🏡 主页: http://www.coulsonzero.cn
 - 📚 博客: http://docs.coulsonzero.top
 - 🌱 react展板: https://dashboard.coulsonzero.cn
-- 🎈 vue项目: https://admin.coulsonzero.cn
+- 🎈 vue项目: https://vue.coulsonzero.cn
 
 
 技术栈: 
