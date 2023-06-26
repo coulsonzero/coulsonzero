@@ -17,7 +17,7 @@
 - 🎈 vue项目: https://vue.coulsonzero.cn
 
 
-技术栈: 
+#### 技术栈: 
 - 后端：golang、python、java
 - 框架：gin、gorm
 - 前端：html、css、javascript、react
@@ -25,6 +25,10 @@
 - 部署：git、linux、docker、shell
 - 其它：django，springboot
 
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,go,c,cpp,rust)](https://skillicons.dev)
 
 
 <img align="" height="136px" src="https://github-readme-stats.vercel.app/api?username=coulsonzero&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,2CD8D5,C5C1FF,FFBAC3&theme=graywhite&locale=cn" /><img align="" height="136px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coulsonzero&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
