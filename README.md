@@ -18,7 +18,7 @@
 
 
 #### [技术栈](https://skillicons.dev): 
-- 后端：golang、python、java、C++、Rust
+- 后端：golang、C++、Rust、python、java
 - 框架：gin、gorm
 - 前端：html、css、javascript、react、vue3
 - 数据：mysql、 redis
@@ -35,13 +35,15 @@
 
 <p align="left">
   <a href="#" class="skill-img" id="skill-img" pointer-enents="none">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,scss,threejs" />
     <br>
     <img src="https://skillicons.dev/icons?i=python,java,go,c,cpp,rust" />
     <br>
     <img src="https://skillicons.dev/icons?i=linux,git,docker" />
     <br>
-    <img src="https://skillicons.dev/icons?i=github,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=mysql,redis,mongodb" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=github,vscode,postman,markdown" />
   </a>
 </p>
 
