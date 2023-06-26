@@ -45,15 +45,8 @@
   </a>
 </p>
 
-<style>
-.skill-img {
-  pointer-events: none;
-}
-  a{pointer-events: none;}
-</style>
-<script>
-  document.getElementById("skill-img").disabled=true;
-</script>
+
+
 
 
 
