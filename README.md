@@ -34,7 +34,7 @@
 -->
 
 <p align="left">
-  <div>
+  <a href="" class="skill-img">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
     <br>
     <img src="https://skillicons.dev/icons?i=python,java,go,c,cpp,rust" />
@@ -45,6 +45,11 @@
   </a>
 </p>
 
+<style>
+.skill-img {
+  pointer-events: none;
+}
+</style>
 
 
 
