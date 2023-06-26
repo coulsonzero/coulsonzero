@@ -20,10 +20,10 @@
 #### [技术栈](https://skillicons.dev): 
 - 后端：golang、python、java、C++、Rust
 - 框架：gin、gorm
-- 前端：html、css、javascript、react
+- 前端：html、css、javascript、react、vue3
 - 数据：mysql、 redis
 - 部署：git、linux、docker、shell
-- 其它：django，springboot
+
 
 <!--
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue)](#)
