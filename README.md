@@ -34,7 +34,7 @@
 -->
 
 <p align="left">
-  <a href="" class="skill-img" id="skill-img">
+  <a href="" class="skill-img" id="skill-img" pointer-enents="none">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
     <br>
     <img src="https://skillicons.dev/icons?i=python,java,go,c,cpp,rust" />
@@ -49,6 +49,7 @@
 .skill-img {
   pointer-events: none;
 }
+  a{pointer-events: none;}
 </style>
 <script>
   document.getElementById("skill-img").disabled=true;
