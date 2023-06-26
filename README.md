@@ -34,7 +34,7 @@
 -->
 
 <p align="left">
-  <a href="#">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,vue" />
     <br>
     <img src="https://skillicons.dev/icons?i=python,java,go,c,cpp,rust" />
