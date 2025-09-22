@@ -18,7 +18,7 @@
 
 
 #### [技术栈](https://skillicons.dev): 
-- 后端：golang、C++、Rust、python、java
+- 后端：Golang、Python、C++、Rust、java
 - 框架：gin、gorm
 - 前端：html、css、javascript、react、vue3
 - 数据：mysql、 redis
